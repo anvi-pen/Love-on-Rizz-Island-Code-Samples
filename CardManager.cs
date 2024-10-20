@@ -226,7 +226,6 @@ public class CardManager : MonoBehaviour
         secondCard.Reset_Card();
     }
 
-    // TODO: put cards back if monster made incorrect guess
     // Simulates the monster's turn during the game
     IEnumerator Monster_Move()
     {
